@@ -141,7 +141,6 @@ img{
 .daohang_tubiao{
 	width: 244px;
 	height: 100%;
-	background: width: ;
 	float: left;
 }
 .daohang_tubiao a{
@@ -227,7 +226,7 @@ img{
 .bannertu{
 	width: 1226px;
 	height: 460px;
-	background: green;
+/* 	background: green; */
 }
 .bannertu li{
 	position: absolute;
@@ -772,7 +771,7 @@ img{
 	display: block;
 	width: 234px;
 	height: 300px;
-	background: pink;
+/* 	background: pink; */
 	transition: all .2s linear;
 }
 .zhinengxiazuotu1:hover{
@@ -831,7 +830,7 @@ img{
 	display: block;
 	width: 150px;
 	height: 150px;
-	background: black;
+/* 	background: black; */
 	margin: 37px 42px 0;
 }
 .tuijianwenzi{
@@ -856,7 +855,7 @@ img{
 .changpin{
 	width: 1226px;
 	height: 495px;
-	background: black;
+/* 	background: black; */
 	margin: 0 auto;
 }
 .changpin_down{
@@ -885,7 +884,7 @@ img{
 	display: block;
 	width: 100%;
 	height: 220px;
-	background: black;
+/* 	background: black; */
 }
 .changpinwenzi{
 	line-height: 24px;
@@ -920,7 +919,7 @@ img{
 .neirong{
 	width: 1226px;
 	height: 500px;
-	background: black;
+/* 	background: black; */
 	margin:0 auto;
 }
 .neirong_xia{
@@ -1075,7 +1074,7 @@ img{
 .shipin_tu_kuang{
 	width: 100%;
 	height: 180px;
-	background: pink;
+/* 	background: pink; */
 	position: relative;
 }
 .shipin_xia_zi{
@@ -1098,7 +1097,7 @@ img{
 	display: block;
 	width: 36px;
 	height: 24px;
-	background: black;
+/* 	background: black; */
 	position: absolute;
 	left: 20px;
 	bottom: 10px;
@@ -1272,7 +1271,7 @@ img{
 	width: 440px;
 	height: 28px;
 	float: right;
-	background: black;
+/* 	background: black; */
 	margin-top: 34px;
 }
 .zhandian_youtu1{
